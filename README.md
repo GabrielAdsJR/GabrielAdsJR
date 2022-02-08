@@ -2,7 +2,7 @@
   - 👀 Aprender e evoluir
 - 🌱  Estudando Pytho, HTML, CSSS E FLASK
 - 💞️ Procuro oportunidade que me façam adquir sabedoria e prática
-- 📫 Entre em contato comigo através do meu instagram @gabrielolive_ads
+- 📫 Entre em contato comigo através do meu instagram @gabrielolive_devp
 
 
 <!---
