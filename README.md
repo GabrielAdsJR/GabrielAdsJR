@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielAdsJR
   - 👀 Aprender e evoluir
-- 🌱  Estudando Pytho, HTML, CSSS E FLASK
+- 🌱  Estudando PYTHON, HTML, CSSS E JS
 - 💞️ Procuro oportunidade que me façam adquir sabedoria e prática
 - 📫 Entre em contato comigo pelo e-mail: oliveiradevp@gmail.com
 
